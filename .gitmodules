@@ -1,0 +1,6 @@
+[submodule "demo"]
+	path = demo
+	url = https://github.com/GeorgeR04/JavaBackend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/GeorgeR04/ReactFrontend
