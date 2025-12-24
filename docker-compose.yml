@@ -57,7 +57,5 @@ services:
 
 volumes:
   mysql_data:
-  frontend_node_modules:
   mongo_data:
-    external: true
-    name: ab4f89c1ffe4cf951bc62ddd441f5a1bebd9f5187b53adbf4433ca231eaa3905
+  frontend_node_modules:
