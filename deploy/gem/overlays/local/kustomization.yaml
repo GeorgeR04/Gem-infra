@@ -5,6 +5,7 @@ namespace: gem-local
 
 resources:
   - namespace.yaml
+  - ingress.yaml
   - ../../base
 
 images:
